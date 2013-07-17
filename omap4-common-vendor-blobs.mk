@@ -40,8 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/omap4-common/proprietary/etc/firmware/ap_bt_data.bin:system/etc/firmware/ap_bt_data.bin \
     vendor/motorola/omap4-common/proprietary/usr/idc/Motorola_Mobility_Motorola_HD_Dock.idc:system/usr/idc/Motorola_Mobility_Motorola_HD_Dock.idc \
     vendor/motorola/omap4-common/proprietary/usr/keylayout/cpcap-key.kl:system/usr/keylayout/cpcap-key.kl \
-    vendor/motorola/omap4-common/proprietary/lib/hw/alsa.omap4.so:system/lib/hw/alsa.omap4.so \
-    vendor/motorola/omap4-common/proprietary/lib/libaudio_ext.so:system/lib/libaudio_ext.so \
     vendor/motorola/omap4-common/proprietary/lib/libbattd.so:system/lib/libbattd.so \
     vendor/motorola/omap4-common/proprietary/lib/libdataencrypt_openssl.so:system/lib/libdataencrypt_openssl.so \
     vendor/motorola/omap4-common/proprietary/lib/libdataencrypt_tpa.so:system/lib/libdataencrypt_tpa.so \
